@@ -1,0 +1,14 @@
+C:\Users\82104\source\repos\TextRpgs\TextRpgs\bin\Debug\netcoreapp3.1\TextRpgs.exe
+C:\Users\82104\source\repos\TextRpgs\TextRpgs\bin\Debug\netcoreapp3.1\TextRpgs.deps.json
+C:\Users\82104\source\repos\TextRpgs\TextRpgs\bin\Debug\netcoreapp3.1\TextRpgs.runtimeconfig.json
+C:\Users\82104\source\repos\TextRpgs\TextRpgs\bin\Debug\netcoreapp3.1\TextRpgs.runtimeconfig.dev.json
+C:\Users\82104\source\repos\TextRpgs\TextRpgs\bin\Debug\netcoreapp3.1\TextRpgs.dll
+C:\Users\82104\source\repos\TextRpgs\TextRpgs\bin\Debug\netcoreapp3.1\TextRpgs.pdb
+C:\Users\82104\source\repos\TextRpgs\TextRpgs\obj\Debug\netcoreapp3.1\TextRpgs.csproj.AssemblyReference.cache
+C:\Users\82104\source\repos\TextRpgs\TextRpgs\obj\Debug\netcoreapp3.1\TextRpgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82104\source\repos\TextRpgs\TextRpgs\obj\Debug\netcoreapp3.1\TextRpgs.AssemblyInfoInputs.cache
+C:\Users\82104\source\repos\TextRpgs\TextRpgs\obj\Debug\netcoreapp3.1\TextRpgs.AssemblyInfo.cs
+C:\Users\82104\source\repos\TextRpgs\TextRpgs\obj\Debug\netcoreapp3.1\TextRpgs.csproj.CoreCompileInputs.cache
+C:\Users\82104\source\repos\TextRpgs\TextRpgs\obj\Debug\netcoreapp3.1\TextRpgs.dll
+C:\Users\82104\source\repos\TextRpgs\TextRpgs\obj\Debug\netcoreapp3.1\TextRpgs.pdb
+C:\Users\82104\source\repos\TextRpgs\TextRpgs\obj\Debug\netcoreapp3.1\TextRpgs.genruntimeconfig.cache
