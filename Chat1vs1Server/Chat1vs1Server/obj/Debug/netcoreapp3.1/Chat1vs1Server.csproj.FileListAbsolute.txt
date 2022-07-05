@@ -1,0 +1,14 @@
+C:\Users\82104\source\repos\Chat1vs1Server\Chat1vs1Server\bin\Debug\netcoreapp3.1\Chat1vs1Server.exe
+C:\Users\82104\source\repos\Chat1vs1Server\Chat1vs1Server\bin\Debug\netcoreapp3.1\Chat1vs1Server.deps.json
+C:\Users\82104\source\repos\Chat1vs1Server\Chat1vs1Server\bin\Debug\netcoreapp3.1\Chat1vs1Server.runtimeconfig.json
+C:\Users\82104\source\repos\Chat1vs1Server\Chat1vs1Server\bin\Debug\netcoreapp3.1\Chat1vs1Server.runtimeconfig.dev.json
+C:\Users\82104\source\repos\Chat1vs1Server\Chat1vs1Server\bin\Debug\netcoreapp3.1\Chat1vs1Server.dll
+C:\Users\82104\source\repos\Chat1vs1Server\Chat1vs1Server\bin\Debug\netcoreapp3.1\Chat1vs1Server.pdb
+C:\Users\82104\source\repos\Chat1vs1Server\Chat1vs1Server\obj\Debug\netcoreapp3.1\Chat1vs1Server.csproj.AssemblyReference.cache
+C:\Users\82104\source\repos\Chat1vs1Server\Chat1vs1Server\obj\Debug\netcoreapp3.1\Chat1vs1Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82104\source\repos\Chat1vs1Server\Chat1vs1Server\obj\Debug\netcoreapp3.1\Chat1vs1Server.AssemblyInfoInputs.cache
+C:\Users\82104\source\repos\Chat1vs1Server\Chat1vs1Server\obj\Debug\netcoreapp3.1\Chat1vs1Server.AssemblyInfo.cs
+C:\Users\82104\source\repos\Chat1vs1Server\Chat1vs1Server\obj\Debug\netcoreapp3.1\Chat1vs1Server.csproj.CoreCompileInputs.cache
+C:\Users\82104\source\repos\Chat1vs1Server\Chat1vs1Server\obj\Debug\netcoreapp3.1\Chat1vs1Server.dll
+C:\Users\82104\source\repos\Chat1vs1Server\Chat1vs1Server\obj\Debug\netcoreapp3.1\Chat1vs1Server.pdb
+C:\Users\82104\source\repos\Chat1vs1Server\Chat1vs1Server\obj\Debug\netcoreapp3.1\Chat1vs1Server.genruntimeconfig.cache

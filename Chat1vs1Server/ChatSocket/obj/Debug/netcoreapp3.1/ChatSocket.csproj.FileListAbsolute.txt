@@ -1,0 +1,13 @@
+C:\Users\82104\source\repos\Chat1vs1Server\ChatSocket\bin\Debug\netcoreapp3.1\ChatSocket.exe
+C:\Users\82104\source\repos\Chat1vs1Server\ChatSocket\bin\Debug\netcoreapp3.1\ChatSocket.deps.json
+C:\Users\82104\source\repos\Chat1vs1Server\ChatSocket\bin\Debug\netcoreapp3.1\ChatSocket.runtimeconfig.json
+C:\Users\82104\source\repos\Chat1vs1Server\ChatSocket\bin\Debug\netcoreapp3.1\ChatSocket.runtimeconfig.dev.json
+C:\Users\82104\source\repos\Chat1vs1Server\ChatSocket\bin\Debug\netcoreapp3.1\ChatSocket.dll
+C:\Users\82104\source\repos\Chat1vs1Server\ChatSocket\bin\Debug\netcoreapp3.1\ChatSocket.pdb
+C:\Users\82104\source\repos\Chat1vs1Server\ChatSocket\obj\Debug\netcoreapp3.1\ChatSocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82104\source\repos\Chat1vs1Server\ChatSocket\obj\Debug\netcoreapp3.1\ChatSocket.AssemblyInfoInputs.cache
+C:\Users\82104\source\repos\Chat1vs1Server\ChatSocket\obj\Debug\netcoreapp3.1\ChatSocket.AssemblyInfo.cs
+C:\Users\82104\source\repos\Chat1vs1Server\ChatSocket\obj\Debug\netcoreapp3.1\ChatSocket.csproj.CoreCompileInputs.cache
+C:\Users\82104\source\repos\Chat1vs1Server\ChatSocket\obj\Debug\netcoreapp3.1\ChatSocket.dll
+C:\Users\82104\source\repos\Chat1vs1Server\ChatSocket\obj\Debug\netcoreapp3.1\ChatSocket.pdb
+C:\Users\82104\source\repos\Chat1vs1Server\ChatSocket\obj\Debug\netcoreapp3.1\ChatSocket.genruntimeconfig.cache

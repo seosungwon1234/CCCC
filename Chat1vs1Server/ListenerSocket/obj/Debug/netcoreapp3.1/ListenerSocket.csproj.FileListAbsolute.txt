@@ -1,0 +1,14 @@
+C:\Users\82104\source\repos\Chat1vs1Server\ListenerSocket\bin\Debug\netcoreapp3.1\ListenerSocket.exe
+C:\Users\82104\source\repos\Chat1vs1Server\ListenerSocket\bin\Debug\netcoreapp3.1\ListenerSocket.deps.json
+C:\Users\82104\source\repos\Chat1vs1Server\ListenerSocket\bin\Debug\netcoreapp3.1\ListenerSocket.runtimeconfig.json
+C:\Users\82104\source\repos\Chat1vs1Server\ListenerSocket\bin\Debug\netcoreapp3.1\ListenerSocket.runtimeconfig.dev.json
+C:\Users\82104\source\repos\Chat1vs1Server\ListenerSocket\bin\Debug\netcoreapp3.1\ListenerSocket.dll
+C:\Users\82104\source\repos\Chat1vs1Server\ListenerSocket\bin\Debug\netcoreapp3.1\ListenerSocket.pdb
+C:\Users\82104\source\repos\Chat1vs1Server\ListenerSocket\obj\Debug\netcoreapp3.1\ListenerSocket.csproj.AssemblyReference.cache
+C:\Users\82104\source\repos\Chat1vs1Server\ListenerSocket\obj\Debug\netcoreapp3.1\ListenerSocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\82104\source\repos\Chat1vs1Server\ListenerSocket\obj\Debug\netcoreapp3.1\ListenerSocket.AssemblyInfoInputs.cache
+C:\Users\82104\source\repos\Chat1vs1Server\ListenerSocket\obj\Debug\netcoreapp3.1\ListenerSocket.AssemblyInfo.cs
+C:\Users\82104\source\repos\Chat1vs1Server\ListenerSocket\obj\Debug\netcoreapp3.1\ListenerSocket.csproj.CoreCompileInputs.cache
+C:\Users\82104\source\repos\Chat1vs1Server\ListenerSocket\obj\Debug\netcoreapp3.1\ListenerSocket.dll
+C:\Users\82104\source\repos\Chat1vs1Server\ListenerSocket\obj\Debug\netcoreapp3.1\ListenerSocket.pdb
+C:\Users\82104\source\repos\Chat1vs1Server\ListenerSocket\obj\Debug\netcoreapp3.1\ListenerSocket.genruntimeconfig.cache
